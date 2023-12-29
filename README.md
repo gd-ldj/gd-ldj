@@ -19,9 +19,9 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-<!--     <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/gd-ldj/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@gd-ldj"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://juejin.cn/user/1609340753034712/posts"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_41969216?type=blog"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" /></a>&emsp;
+<!--     <a href="https://www.youtube.com/@gd-ldj"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
@@ -47,7 +47,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/assets/images/steven.png" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/34954129?v=4" />
 
 <p>&emsp;&emsp;大家好，我是古德同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、旅行。</p>
@@ -73,23 +73,6 @@
 
 </td></tr>
 
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gd-ldj&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gd-ldj&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gd-ldj&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
 </table>
 
 
