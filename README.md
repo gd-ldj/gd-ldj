@@ -19,7 +19,7 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://juejin.cn/user/1609340753034712/posts"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" /></a>&emsp;
+    <a href="https://juejin.cn/user/1609340753034712/posts"><img src="https://lf-cdn-tos.bytescm.com/obj/static/xitu_extension/static/gold.981a5510.svg" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_41969216?type=blog"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" /></a>&emsp;
 <!--     <a href="https://www.youtube.com/@gd-ldj"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
