@@ -222,13 +222,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/assets/images/github.webp">
 
-<!-- profile-3d-contrib 3D贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -240,40 +233,6 @@
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
