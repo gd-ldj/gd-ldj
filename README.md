@@ -52,7 +52,7 @@
 <p>&emsp;&emsp;大家好，我是古德同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过你我的每一件善行。</p>
+<p>&emsp;&emsp;The original mind is pure, the original nature is good, without ego, it becomes virtue.  &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;    &emsp;&emsp;    &emsp;&emsp;   &emsp;&emsp;   &emsp;&emsp;            &emsp;&emsp;           &emsp;&emsp;   &emsp;&emsp;  &emsp;&emsp;  </p>
 
 </td></tr>
 
