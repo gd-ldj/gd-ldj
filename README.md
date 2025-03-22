@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Good%20wishes%20for%20a%20pleasant%20day!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=475&lines=console.log(%22Hello%2C%20World%22);Good%20wishes%20for%20a%20pleasant%20day!&center=true&size=27" />
     </a>
   </div>
 
@@ -41,7 +41,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/34954129?v=4" />
+<img align="right" width="68" src="https://avatars.githubusercontent.com/u/34954129?v=4" />
 
 <p>&emsp;&emsp;Hello everyone, I am Good Classmate.</p>
 <p>&emsp;&emsp;I love programming, photography, and traveling.</p>
