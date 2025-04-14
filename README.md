@@ -19,8 +19,8 @@
   
   <!-- profile logo -->
   <div>
-    <a href="https://juejin.cn/user/1609340753034712/posts"><img src="https://lf-cdn-tos.bytescm.com/obj/static/xitu_extension/static/gold.981a5510.svg" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_41969216?type=blog"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" /></a>&emsp;
+    <a href="/"><img src="https://lf-cdn-tos.bytescm.com/obj/static/xitu_extension/static/gold.981a5510.svg" /></a>&emsp;
+    <a href="/"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=gd-ldj&label=Views&color=0e75b6&style=flat" alt="Page Views" />
   </div>
   
