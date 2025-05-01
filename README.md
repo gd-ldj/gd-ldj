@@ -25,7 +25,7 @@
   </div>
   
   <!-- Snake Code Contribution Map -->
-  ![GitHub](https://cdn.jsdelivr.net/gh/your-username/gd-ldj/github-contribution-grid-snake.svg)
+  ![GitHub](https://cdn.jsdelivr.net/gh/gd-ldj/gd-ldj/github-contribution-grid-snake.svg)
 
 </div>
 
